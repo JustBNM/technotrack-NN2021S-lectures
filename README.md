@@ -31,10 +31,10 @@
 | Семинар 6 | 12.04.2021 | Практика. Операция свёртки своими руками. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar06);<br />[видеозапись](https://bit.ly/3wObUBT) |
 | Лекция 7 | 15.04.2021 | Свёрточные нейронные сети: модификации операции свёртки и обзор архитектур. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect07);<br />[видеозапись](https://bit.ly/3e4h6sA) |
 | Семинар 7 | 19.04.2021 | Градиент сверточной операции;<br />анонс [kaggle-соревнования](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle);<br />Технические аспекты подхода Transfer Learning | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar07);<br />[видеозапись](https://bit.ly/3n2eDD8) |
-| Лекция 8 | 24.04.2021 | Свёрточные нейронные сети<br />визуализация признаков и интерпретация вывода. | [материалы - TBA];<br />[видеозапись](https://bit.ly/3enUCD6) |
+| Лекция 8 | 24.04.2021 | Свёрточные нейронные сети<br />визуализация признаков и интерпретация вывода. | [видеозапись](https://bit.ly/3enUCD6) |
 | Семинар 8 | 26.04.2021 | Искусственное дополнение данных (аугментация, data augmentation)<br />Организация поставки данных для обучения и валидации.<br />Ускорение предобработки и поставки данных. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar08);<br />[видеозапись](https://bit.ly/3nl1zcc) |
 | Лекция 9 | 29.04.2021 | Снижение размерности и автокодировщики | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect09);<br />[видеозапись](https://bit.ly/3eWBf4v) |
-| Семинар 9 | 05.05.2021 | Свёрточный автокодировщик в коде. ДЗ №6. Adversarial examples на Pytorch. | материалы - TBA;<br />[видеозапись](https://bit.ly/3b4aPfZ) |
+| Семинар 9 | 05.05.2021 | Свёрточный автокодировщик в коде. ДЗ №6. Adversarial examples на Pytorch. | [видеозапись](https://bit.ly/3b4aPfZ) |
 | Лекция 10 | 06.05.2021 | Автокодировщики: разреженный, вариационный;<br />Задача сегментации. U-net. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect10);<br />[видеозапись](https://bit.ly/3o6tGw2) |
 | Лекция 11 | 13.05.2021 | Задача выучивания метрики (Metric learning) | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect11);<br />[видеозапись](https://bit.ly/3uOimaq) |
 | Семинар 10 | 17.05.2021 | KL-дивергенция: связь с перекрестной энтропией и информационной энтропией<br />Вывод регуляризации для VAE; VAE в коде;<br />обсуждение потенциальных тем проектов | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar10);<br />[видеозапись](https://bit.ly/33YDj6W) |
@@ -42,7 +42,11 @@
 | Семинар 11 | 24.05.2021 | Презентация [ДЗ №7](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) и предлагаемых способов его решения;<br>[Скетч кода](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/Seminar11/wgan-pytorch.ipynb) обучения WGAN. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar11);<br />[видеозапись](https://bit.ly/2TjSeGG) |
 | Лекция 13 | 27.05.2021 | GAN-ы: задачи Image2Image translation; CycleGAN и его особенности;<br />MUNIT и идея разделения векторов на style и content;<br />StyleGAN и его основные идеи. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect13);<br />[видеозапись](https://bit.ly/34F5p7g) |
 | Семинар 12 | 31.05.2021 | О двойственности Канторовича-Рубинштейна | [видеозапись](https://bit.ly/3uEOEDW) |
-| Лекция 14 | 03.06.2021 | Проблема игнорирования шума генератором.<br />StyleGAN: AdaIN, Crossing-over и другие идеи в его основе. | [видеозапись](https://bit.ly/3pqPqUb) |
+| Лекция 14 | 03.06.2021 | Проблема игнорирования шума генератором.<br />StyleGAN: AdaIN, Crossing-over и другие идеи в его основе. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect14)<br />[видеозапись](https://bit.ly/3pqPqUb) |
+| Семинар 13 | 07.06.2021 | Обсуждение проектов | [видеозапись](https://bit.ly/3xEBCZ7) |
+| Лекция 15 | 10.06.2021 | Обработка последовательностей.<br />Рекуррентные нейронные сети. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect15)<br />[видеозапись](https://bit.ly/3vJscKe) |
+| Лекция 16 | 21.06.2021 | Обработка последовательностей: LSTM<br />Механизм внимания (attention), позиционное кодирование. Трансформер. | [видеозапись](https://bit.ly/2SmLV4V) |
+| Лекция 17 | 24.06.2021 | Архитектура Трансформер и ее применения.<br />Visual Transformer (ViT). DINO. | [видеозапись](https://bit.ly/3jhKrnK)<br />[Демонстрация AWS](https://bit.ly/3A3EIHW) |
 
 
 
@@ -58,7 +62,7 @@
 | ДЗ №5 | 19.04.2021  | 06.05.2021<br />(updated) 17.05.2021 | Kaggle-соревнование | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle)<br />[leaderboard](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/kaggle/leaderboard.md) |
 | ДЗ №6 | 05.05.2021 | 13.05.2021 | Автокодировщики для идентификации аномалий | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW06) |
 | ДЗ №7 | 24.05.2021 | 14.06.2021 | Идентификация аномалий с использованием WGAN | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) |
-| Проекты |  | 17.06.2021 |  | [summary](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/projects);<br>[Обсуждение тем - 1](https://bit.ly/3bVHapG);<br>[Обсуждение тем - 2](https://bit.ly/2QWNqWU) |
+| Проекты |  | 28.06.2021 |  | [summary](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/projects);<br>[Обсуждение тем - 1](https://bit.ly/3bVHapG);<br>[Обсуждение тем - 2](https://bit.ly/2QWNqWU) |
 
 
 ### Рекомендуемая литература
